@@ -1,16 +1,26 @@
-## Hi there 👋
+## Bio
+I'm Jonathan, a computer science student enrolled at the University of North Florida.
 
-<!--
-**mrfunkey/mrfunkey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a java developer focused on building minimal, easy-to-use desktop applications. My current focus is on database implementation.
 
-Here are some ideas to get you started:
+## Active Projects
+**TaskStack**
+  - Desktop task manager allowing users to store and complete tasks
+  - Tech Stack: Java, SQLite, Swing
+  - Features
+    - Persistent Storage
+    - Minimal UI
+    - Input Validation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  **Dotmp3**
+  - Local mp3 player that contains user's mp3 files upon importation
+  - Tech Stack: Java, SQLite, Swing, JLayer, JAudioTagger
+  - Features
+    - File/Directory importing
+    - (soon) Audio Playback
+    - (soon) Song grouping/favoriting
+
+
+
+
+
