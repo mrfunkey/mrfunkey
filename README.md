@@ -5,7 +5,7 @@ I'm a java developer focused on building minimal, easy-to-use desktop applicatio
 
 ## Active Projects
 **TaskStack**
-  - Desktop task manager allowing users to store and complete tasks
+Desktop task manager allowing users to store and complete tasks
   - Tech Stack: Java, SQLite, Swing
   - Features
     - Persistent Storage
@@ -13,7 +13,7 @@ I'm a java developer focused on building minimal, easy-to-use desktop applicatio
     - Input Validation
 
   **Dotmp3**
-  - Local mp3 player that contains user's mp3 files upon importation
+  Local mp3 player that contains user's mp3 files upon importation
   - Tech Stack: Java, SQLite, Swing, JLayer, JAudioTagger
   - Features
     - File/Directory importing
