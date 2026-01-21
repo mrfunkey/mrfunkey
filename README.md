@@ -3,14 +3,14 @@ I'm Jonathan, a computer science student enrolled at the University of North Flo
 
 I'm a java developer focused on building minimal, easy-to-use desktop applications. My current focus is on database implementation.
 
-## Active Projects
+## Projects
 **TaskStack**
 Desktop task manager allowing users to store and complete tasks
   - Tech Stack: Java, SQLite, Swing
   - Features
-    - Persistent Storage
-    - Minimal UI
-    - Input Validation
+    - Persistent SQLite integration
+    - Realtime Data & UI Synchronization
+    - DAO Pattern
 
   **Dotmp3**
   Local mp3 player that contains user's mp3 files upon importation
