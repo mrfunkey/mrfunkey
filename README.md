@@ -10,15 +10,6 @@ Desktop task manager allowing users to store and complete tasks
   - Features
     - Persistent SQLite integration
     - Realtime Data & UI Synchronization
-    - DAO Pattern
-
-  **Dotmp3**
-  Local mp3 player that contains user's mp3 files upon importation
-  - Java, SQLite, Swing, JLayer, JAudioTagger
-  - Features
-    - File/Directory importing
-    - (soon) Audio Playback
-    - (soon) Song grouping/favoriting
 
 
 
