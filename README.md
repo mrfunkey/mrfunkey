@@ -11,10 +11,9 @@ A simple web app for finding and downloading high-quality album cover art.
 * **Key Feature:** Automatically converts standard thumbnail links into direct 500x500 and 3000x3000 download links.
 
 ### Mock Banking Application
-A financial application built to act like a real bank database.
+A financial application built with a team to act like a real bank database.
 * **Stack:** Core Java, JDBC, PostgreSQL.
 * **Features:** Handles user login, manages balances for multiple accounts, tracks deposits and withdrawals, and logs transactions.
-* **Focus:** Keeping database updates accurate and secure.
 
 ### [TaskStack](https://github.com/mrfunkey/TaskStack)
 A straightforward task-tracking application for managing project workflows.
