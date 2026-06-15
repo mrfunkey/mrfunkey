@@ -1,4 +1,4 @@
-## Bio
+## Hello!
 I'm Jonathan, a computer science student enrolled at the University of North Florida.
 
 I'm focused on building clean, efficient and reliable backend systems using **Java, Spring Boot, and PostgreSQL.** I enjoy architecture design, structuring API data flows, and deploying scalable services to the cloud.
