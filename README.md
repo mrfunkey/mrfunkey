@@ -17,5 +17,5 @@ A financial application built with a team to act like a real bank database.
 
 ### [TaskStack](https://github.com/mrfunkey/TaskStack)
 A straightforward task-tracking application for managing project workflows.
-* **Stack:** Core Java, SQLite
+* **Stack:** Core Java, SQLite.
 * **Features:** Task management system for stacking and completing various tasks of the day.
