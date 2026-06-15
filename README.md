@@ -16,8 +16,7 @@ A financial application built to act like a real bank database.
 * **Features:** Handles user login, manages balances for multiple accounts, tracks deposits and withdrawals, and logs transactions.
 * **Focus:** Keeping database updates accurate and secure.
 
-### TaskStack
+### [TaskStack](https://github.com/mrfunkey/TaskStack)
 A straightforward task-tracking application for managing project workflows.
 * **Stack:** Core Java.
 * **Features:** Task management system for stacking and completing various tasks of the day.
-
