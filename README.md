@@ -14,7 +14,6 @@ A simple web app for finding and downloading high-quality album cover art.
 * **Backend:** Spring Boot app that fetches data from an external API and strips out unneeded information.
 * **Frontend:** Clean layout built with plain JavaScript and CSS Grid.
 * **Hosting:** Deployed to a live server using AWS Elastic Beanstalk.
-* **Key Feature:** Automatically converts standard thumbnail links into direct 500x500 and 3000x3000 download links.
 
 ### Mock Banking Application
 A financial application built with a team to act like a real bank database.
