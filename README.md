@@ -7,8 +7,7 @@ I'm focused on building clean, efficient and reliable backend systems using **Ja
 A full-stack blog platform for long-form album reviews, styled around a "crate-digging" browsing experience.                           
 * **Backend:** Spring Boot REST API with Spring Security session-based auth, BCrypt password hashing, and a PostgreSQL/Hibernate data layer for posts and author profiles.
 * **Frontend:** Plain JavaScript and CSS, no framework, communicating with the API entirely through `fetch`.                               
-* **Auth:** Full account system; signup, login, and session persistence, with post authorship derived server-side from the logged-in user rather than trusted from the client.                                        
-* **Key Feature:** Posts feed rendered as an overlapping, hover-to-reveal card stack instead of a flat list, playing on the site's vinyl/record-crate identity.                   
+* **Auth:** Full account system; signup, login, and session persistence, with post authorship derived server-side from the logged-in user rather than trusted from the client.                   
                                  
 ### [CoverCollector](https://github.com/mrfunkey/CoverCollector-API)
 A simple web app for finding and downloading high-quality album cover art.
