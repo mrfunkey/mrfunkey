@@ -3,7 +3,7 @@ I'm Jonathan, a computer science student enrolled at the University of North Flo
 
 I'm focused on building clean, efficient and reliable backend systems using **Java, Spring Boot, and PostgreSQL.** I enjoy architecture design, structuring API data flows, and deploying scalable services to the cloud.
 
-### [Second Listen](https://github.com/mrfunkey/SecondSpin)
+### [brewed](https://github.com/mrfunkey/SecondSpin)
 A full-stack blog platform for long-form album reviews, styled around a "crate-digging" browsing experience.                           
 * **Backend:** Spring Boot REST API with Spring Security session-based auth, BCrypt password hashing, and a PostgreSQL/Hibernate data layer for posts and author profiles.
 * **Frontend:** Plain JavaScript and CSS, no framework, communicating with the API entirely through `fetch`.                               
