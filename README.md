@@ -4,10 +4,10 @@ I'm Jonathan, a computer science student enrolled at the University of North Flo
 I'm focused on building clean, efficient and reliable backend systems using **Java, Spring Boot, and PostgreSQL.** I enjoy architecture design, structuring API data flows, and deploying scalable services to the cloud.
 
 ### [brewed](https://github.com/mrfunkey/brewed)
-A full-stack blog platform for long-form album reviews, styled around a "crate-digging" browsing experience.                           
-* **Backend:** Spring Boot REST API with Spring Security session-based auth, BCrypt password hashing, and a PostgreSQL/Hibernate data layer for posts and author profiles.
-* **Frontend:** Plain JavaScript and CSS, no framework, communicating with the API entirely through `fetch`.                               
-* **Auth:** Full account system; signup, login, and session persistence, with post authorship derived server-side from the logged-in user rather than trusted from the client.
+A full-stack blog platform for writing about music, film, books, and other media, styled around a warm, coffee-shop visual theme.
+* Backend: Spring Boot REST API with Spring Security session-based auth, BCrypt password hashing, and a PostgreSQL/Hibernate data layer for posts and author profiles.
+* Frontend: Plain JavaScript and CSS, no framework, communicating with the API entirely through `fetch`.
+* Auth: Full account system — signup, login, and session persistence, with post authorship derived server-side from the logged-in user rather than trusted from the client.
 
 ### [Visualify](https://github.com/mrfunkey/Visualify)
 A full-stack web app that turns Spotify listening history into a personalized generative art piece.
